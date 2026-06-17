@@ -137,13 +137,6 @@ Build React projects consistently and strengthen:
 
 ---
 
-## 🤝 Connect With Me
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-
----
 
 ### ⭐ If you like this journey, feel free to star the repository.
 
