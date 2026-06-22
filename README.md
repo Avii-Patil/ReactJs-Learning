@@ -32,8 +32,13 @@ react-learning/
 ├── 02-React/
 ├── 03-Props-Drilling/
 ├── 04-Array-Of-Obj-Mini-Project/
-│
-├── Mini-Projects/
+├── 05-Apply-Css/
+├── 06-Ui-Project/
+├── 07-Working-Function/
+├── 08-UseState-Project/
+├── 09-Advance-UseState/
+├── 10-Form-Handling/
+├── 11-Two-Way-DataBinding/
 │
 └── README.md
 ```
@@ -93,7 +98,7 @@ Topics will continuously grow as I learn.
 Clone the project
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Avii-Patil/ReactJs-Learning.git
 ```
 
 Go to project directory
