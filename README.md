@@ -39,6 +39,7 @@ react-learning/
 ├── 09-Advance-UseState/
 ├── 10-Form-Handling/
 ├── 11-Two-Way-DataBinding/
+├── 12-Note-Project/
 │
 └── README.md
 ```
