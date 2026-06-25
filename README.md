@@ -40,6 +40,8 @@ react-learning/
 ├── 10-Form-Handling/
 ├── 11-Two-Way-DataBinding/
 ├── 12-Note-Project/
+├── 13-Local-Storage/
+├── 14-UseEffect/
 │
 └── README.md
 ```
