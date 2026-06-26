@@ -13,21 +13,27 @@ const App = () => {
     console.log("Num1 Is Changed To = " + num1);
   }, [num1])
 
+
+  //Side Effect Of UseEffect
+  // useEffect(()=>{
+  //   console.log("Side Effect Use Of UseEffect");
+  // })
+
   return (
-      <div className='Main-Div'>
-        <h1>Value of Num = {num}</h1>
-        <h1>Value of Num = {num1}</h1>
-        <button onClick={() => {
-          setNum(num + 1)
-        }}>
-          NUM Change
-        </button>
-        <button onClick={() => {
-          setNum1(num1 + 1)
-        }}>
-          NUM2 Change
-        </button>
-      </div>
+    <div className='Main-Div'>
+      <h1>Value of Num = {num}</h1>
+      <h1>Value of Num = {num1}</h1>
+      <button onClick={() => {
+        setNum(num + 1)
+      }}>
+        NUM Change
+      </button>
+      <button onClick={() => {
+        setNum1(num1 + 1)
+      }}>
+        NUM2 Change
+      </button>
+    </div>
   )
 }
 
