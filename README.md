@@ -42,6 +42,7 @@ react-learning/
 ├── 12-Note-Project/
 ├── 13-Local-Storage/
 ├── 14-UseEffect/
+├── 15-Gallery-Project/
 │
 └── README.md
 ```
